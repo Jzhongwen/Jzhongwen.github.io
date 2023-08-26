@@ -620,7 +620,7 @@ footer.is-mobile {
 }
 #page-header .site-page {
   position: relative;
-  z-index: 99;
+  font-weight: bold;
   margin-left: 0.6rem;
   padding-bottom: 0.3rem;
   text-shadow: 0.05rem 0.05rem 0.1rem rgba(0,0,0,0.3);
